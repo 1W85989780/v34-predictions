@@ -1,0 +1,19 @@
+{
+  "system": "松哥融合预测系统 V3.4 无界感知增强版",
+  "version": "V3.4",
+  "architecture": "双层耦合架构 | 32模块+1子系统 | 6后手槽位",
+  "data_sources": [
+    "FotMob",
+    "Flashscore",
+    "ESPN"
+  ],
+  "fetch_log": [
+    "FotMob: HTTP 404",
+    "Flashscore: 0场比赛",
+    "ESPN: 0场比赛"
+  ],
+  "update_time": "2026-05-17T05:29:09.722878",
+  "total_matches_fetched": 0,
+  "total_matches_predicted": 0,
+  "results": []
+}
